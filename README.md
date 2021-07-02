@@ -2,7 +2,9 @@
 This is a Submission Dicoding project for Machine Learning and Android Developer 
 For Machine Learning, we have to make an App that can recognize a given image and have to signify wether it's rock, paper or scissors.
 As for Android Developer :
-here's the requirement for pass Belajar Fundamental Aplikasi Android "
+here's the requirement for pass Belajar Fundamental Aplikasi Android :
+
+Membuat aplikasi pencaharian user github(Github User) dengan menerapkan beberapa kriteria sebagai berikut dalam aplikasi :
 1. Navigasi perpindahan halaman aplikasi menggunakan Intent 
 2. Menerapkan Parcelable untuk transaksi data antar Activity
 3. Menerapkan SearchView untuk melakukan pencarian data
