@@ -1,6 +1,6 @@
 # Submission
 This is a Submission Dicoding project for Machine Learning and Android Developer 
-For Machine Learning, we have to make an App that can recognize a given image and have to signify wether it's rock, paper or scissors.
+For Machine Learning, we have to make an App that can recognize a given image and have to identify whether it's rock, paper or scissors.
 As for Android Developer :
 here's the requirement for pass Belajar Fundamental Aplikasi Android :
 
