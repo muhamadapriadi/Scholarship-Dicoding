@@ -15,7 +15,7 @@ Membuat aplikasi pencaharian user github(Github User) dengan menerapkan beberapa
 4. Menerapkan RecyclerView untuk menampilkan data dalam bentuk list
 5. Menambahkan fungsi klik pada RecyclerView
 6. Menggunakan TabLayout sebagai navigasi antar halaman
-7. Menerapkan CRUD database pada sebuah aplikasi
+7. Menerapkan SQLite CRUD database pada sebuah aplikasi
 8. Menerapkan Alarm Manager untuk menjalankan suatu proses pada waktu tertentu secara berulang
 9. Membuat aplikasi consumer untuk menguji Content Provider dalam menyediakan data
 10. Menampilkan notifikasi pada device
